@@ -16,9 +16,6 @@ class FileHandler:
 
 
 
-
-
-
 file = FileHandler()
 file.load_from_function("/Users/macpro/PycharmProjects/mini_python_project/cvs.file/user.csv")
 
