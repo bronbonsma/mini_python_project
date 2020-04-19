@@ -11,4 +11,6 @@ id,first_name,last_name,password,position,salary,role
 10,amira,bernsdtein,12345678,teacher,10,teacher
 11,amira,bernsdtein,12345678,teacher,10,teacher
 12,amira,bernsdtein,12345678,teacher,10,teacher
-13,amira,bernsdtein,12345678,teacher,10,teacher
+13,amira,bernsdtein,12345678,teacher,10,teacher14,Tom,Jerry,password,student,100,teacher
+14,Tom,Jerry,password,student,100,teacher
+14,Tom,Jerry,password,student,100,teacher
