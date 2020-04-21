@@ -29,6 +29,7 @@ class Logger():
 
         else:
             date = datetime.datetime.now()
+
             try:
                  f.write(date.strftime("%y/%m/%Y, %H:%M:%S") + "{} \n".format(msg))
 
@@ -42,4 +43,8 @@ class Logger():
 
 log = Logger("logs", "log_file.txt")
 log.create_log_entry(" A message")
+
+
+
+
 
